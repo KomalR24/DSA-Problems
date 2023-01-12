@@ -1,6 +1,6 @@
 // Link To Question: https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1
 
-class GfG
+class Solution
 {
     Node buildBalancedTree(Node root)
     {
