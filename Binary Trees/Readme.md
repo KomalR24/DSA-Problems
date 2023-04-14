@@ -16,7 +16,7 @@
 14. Check for balanced binary tree
 15. Diagonal Traversal
 16. Boundary Traversal
-17. Construct Binary Tree frin String with bracket representation
+17. Construct Binary Tree from String with bracket representation
 18. Binary tree to DLL
 19. Minimum swaps required to convert binary tree to BST
 20. Sum Tree
