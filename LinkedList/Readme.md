@@ -1,6 +1,6 @@
 ## Linked List - DSA Problems
 
-1. Reverse LL.
+1. Reverse LL. 
 2. Reverse LL in group of given size.
 3. Detect loop in LL.
 4. Remove loop in LL.
